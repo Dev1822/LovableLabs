@@ -36,14 +36,12 @@ https://devpatel-lovelablelabs.netlify.app/
 LovableLabs/ 
 │ 
 ├── pages/ 
-│ 
+│   ├── about.html 
+│   │ 
+│   ├── benefits.html 
+│   │ 
+│   └── contact.html 
 ├── index.html 
-│ 
-├── about.html 
-│ 
-├── benefits.html 
-│ 
-├── contact.html 
 │
 ├── styles.css 
 │ 
